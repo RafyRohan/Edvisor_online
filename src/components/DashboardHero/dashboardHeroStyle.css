@@ -1,0 +1,23 @@
+.profile-header {
+    text-align: left;
+    margin-bottom: 20px;
+  }
+  
+  .profile-header img {
+    border: 1px solid #8d1010;
+  }
+  
+  .btn-block {
+    background-color: #8d1010 !important;
+    border-color: #8B0000  !important;
+    color: white !important;
+    padding: 15px 20px !important;
+    font-size: 14px !important;
+    font-weight: bold !important;
+    min-height: 75px;
+  }
+  
+  .btn-danger:hover {
+    background-color: #8e7d7d;
+    border-color: #6f0000;
+  }

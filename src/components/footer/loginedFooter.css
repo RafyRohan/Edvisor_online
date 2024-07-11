@@ -1,0 +1,26 @@
+/* footerStyle.css */
+
+.footer {
+    border-top: 1px solid #ececec;
+    background-color: #fff; /* Adjust background color if needed */
+    /*padding-top: 80px; Adjust padding as needed*/
+    /* max-height:80px; */
+    
+    
+}
+
+.container{
+    height:auto;
+}
+.footer-links a {
+    color: #000;
+    text-decoration: none;
+}
+
+.footer-links a:hover {
+    text-decoration: underline;
+}
+
+.footer-copy {
+    color: #000;
+}

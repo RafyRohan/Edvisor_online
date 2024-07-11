@@ -1,0 +1,35 @@
+.cards{
+    display: flex;
+    flex: wrap;
+    
+
+}
+.card{
+    width: 20%;
+    height: 5rem;
+    border-radius: 15px;
+    background-color: blue;
+    margin: 2%;
+    box-shadow: 0 4px 2px -2px rgb(159, 159, 159);
+    
+    
+} 
+.temp{
+    display: flex;
+}
+.pic{
+    width: 40%;
+    border-radius: 50%;
+    background-color: aqua ;
+    height: 100px;
+    /* margin: 10%; */
+}
+.name{
+    width: 60%;
+    
+    height: 100%;
+    padding-top: 10%;
+    justify-content: center;
+    align-items: center;
+    
+}

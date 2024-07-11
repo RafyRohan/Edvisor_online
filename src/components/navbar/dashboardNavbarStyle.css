@@ -1,0 +1,26 @@
+/* navbarStyle.css */
+
+nav .custom-button {
+    margin: 0.5rem;
+    background: #8D1010;
+    color: white;
+    border: 1px solid #8D1010;
+    font-weight: 700;
+    border-radius: 50px;
+    min-width: 110px;
+    
+  }
+  
+  nav .custom-button:hover {
+    background: #852020; /* Change to your desired hover color */
+    color: white;
+  }
+  
+  
+  
+  nav {
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    background-color: white;
+  }
+  

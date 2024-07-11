@@ -1,0 +1,77 @@
+/* style.css */
+
+div{
+  font-family: "Inter", sans-serif;
+}
+  
+  .heroSection .text-center {
+    padding: 4rem 1rem;
+    margin: 5rem 0;
+    text-align: center;
+  }
+  
+ 
+  
+  .heroSection .lead {
+    margin-bottom: 4rem;
+    font-weight: 500;
+  }
+  
+  .heroSection .display-5 {
+    font-weight: 700;
+    color: var(--bs-body-emphasis);
+  }
+  
+  .heroSection .input-group {
+    max-width: 40rem;
+    margin: auto;
+  }
+  
+  .heroSection .form-control {
+    border-radius: 0.375rem;
+    outline: none;
+    box-shadow: none;
+  }
+  
+  .heroSection .input-group-append .btn {
+    margin: 0.25rem;
+    background: red;
+    color: white;
+  }
+  
+  .heroSection .py-5 {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+  }
+  .btan{
+    background-color: #8D1010;
+    border: 1.5px solid #8D1010;
+    color: white;
+    border-radius: 40px;
+    height: 3rem;
+    font-weight: 700;
+    padding-inline: 1.5rem;
+  }
+  input{
+    border: 1px solid #8D1010;
+    outline: none;
+    border-radius: 40px;
+    font-weight: 400;
+    height: 3rem;
+    background-color: #F0F0F0;
+  }
+  .confusedText{
+    font-weight: 500;
+  }
+  div1 span{
+    font-weight: 500;
+    color: #8D1010;
+  }
+  .h1Text{
+    font-weight: 700;
+    color: #8D1010 !important;
+    
+  }
+  .heroSection{
+    background: linear-gradient(to bottom, #ffeaea, #ffffff);
+  }
